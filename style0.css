@@ -1,0 +1,45 @@
+body {
+  background-color: ##5d5f63;
+}
+
+#container {
+    background-color: ##d9dce0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    pading:10px;
+
+}
+
+#content {
+  padding: 10px;
+
+}
+
+#footer {
+  background-color: #31343a;
+  height: 50px;
+  color: white;
+  text-align: right;
+  clear: both;
+
+
+}
+
+#banner a {
+  width: auto;
+  height: 300px;
+}
+
+#main {
+  width: 650px;
+  float: right;
+  padding: 10px;
+
+}
+
+#imgplaceholder {
+  width: rgb(255, 0, 0);px;
+  float: left;
+  padding: 10px;
+}
